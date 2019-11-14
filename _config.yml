@@ -1,11 +1,11 @@
 # Site settings
 title: piglife92
 email: piglife92@gmail.com
-url: https://pgilife92.github.io
-description: "누구나 쉽게 게임을 개발할 수 있는 그날까지"
-keywords: "your keywords, separated by commas"
-skills: "Game Programmer"
-meta_author: LastName FirstName
+url: https://piglife92.github.io
+description: "유니티 기반의 모바일 게임 개발자"
+keywords: "unity, developer, c#, game, desiger""
+skills: "C# Developer,Unity Developer, Game Programmer, Server Developer"
+meta_author: Park Youngjae
 
 # Google webmaster tools
 google_verify:
@@ -32,15 +32,15 @@ color:
 
 # Footer settings
 footer:
-  copyright: piglife92
-  location: 
+  copyright: Youngjae
+  location: Skills
   social: Around the Web
   credits: Credits
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: https://twitter.com/piglife92
+    url: 
   - title: facebook
     url: https://www.facebook.com/youngjae.park.9822
   - title: stack-overflow
@@ -52,11 +52,11 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 
+  - line: C#, Unity
   - line: 
 
 # Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+credits: '유니티로 게임을 개발하는 개발자'
 
 # Build settings
 markdown: kramdown
