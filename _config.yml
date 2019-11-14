@@ -33,16 +33,16 @@ color:
 # Footer settings
 footer:
   copyright: piglife92
-  location: Location
+  location: 
   social: Around the Web
   credits: Credits
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: 
+    url: https://twitter.com/piglife92
   - title: facebook
-    url:
+    url:https://www.facebook.com/youngjae.park.9822
   - title: stack-overflow
     url: 
   - title: bitbucket
